@@ -5,7 +5,7 @@
 
 Top Frontend frameworks:
 
-we will discuss about the 3 top javascript libraries and frameworks in demand today.
+We will discuss about the 3 top javascript libraries and frameworks in demand today.
 These frameworks are hosted on npm Registry: [npm registry](https://www.npmjs.com/)
 
 <details>
@@ -100,6 +100,7 @@ npm start
 <details>
 <summary>Angular</summary>
 
+
 [Homepage](https://angular.io)
 
 Angular was started back in 2009 by a Google employee Misko Hevery and has since grown widely popular
@@ -110,10 +111,13 @@ To get started with Angular
 
 > Install Angular CLI
 ```bash
+# Install Angular CLI globally so it can be accessed from any folder
 npm install --global @angular/cli
 ```
 ```bash
+# Version should be > 1.0.0
 ng version
+> 1.0.0
 ```
 
 > How to create a new Angular project?
@@ -152,4 +156,4 @@ Browse some of more awesome [Google open source solutions](https://opensource.go
 # What to do next
 [System Deign Primer](https://github.com/donnemartin/system-design-primer)
 
-[Next](backend.md)
+[Next: Backend](backend.md)

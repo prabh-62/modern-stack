@@ -1,6 +1,6 @@
 # 3. Backend
 
-# Prequisities
+## Prequisities
 > Please make sure you have all the [prequisites](prerequisites.md) configured before moving on.
 
 Mature Backend frameworks:
@@ -14,7 +14,7 @@ Imagine what you could build if you learned Ruby on Rails…
 
 <img src="assets/brand/rails.svg" alt="Rails" width="200px" />
 
-## Prerequisites
+#### Prerequisites
 ```bash
 ruby -v
 ```
@@ -22,7 +22,7 @@ ruby -v
 sqlite3 --version
 ```
 
-Getting started with Rails
+#### Getting started with Rails
 
 > Install Rails framework
 ```bash
@@ -81,6 +81,9 @@ To begin with ASP.NET Core
 
 > How to create a new react project?
 ```bash
+dotnet -version
+```
+```bash
 dotnet new webapi <project-name>
 ```
 
@@ -104,7 +107,8 @@ dotnet run
 
 > By default, the solution will run on port 5000. Open google chrome and type 'http://localhost:8080/api/values' if it doesn't automatically pop up
 
-## [Tutorials](https://mva.microsoft.com/)
+### [Tutorials](https://mva.microsoft.com/)
+
 </details>
 
 </details>
@@ -112,18 +116,19 @@ dotnet run
 <details>
 <summary>Spring Boot REST API</summary>
 
+
 [Homepage](https://spring.io)
 
 Spring Boot by Pivotal (Java)
 
 ![Spring](assets/brand/spring.png)
 
-## Prerequisites
+### Prerequisites
 ```bash
 java --version
 ```
 
-Getting started with Spring
+### Getting started with Spring
 
 > Install sdkman and other tools
 ```bash
@@ -182,5 +187,5 @@ Browse some of more awesome [Pivotal Projects](https://spring.io/projects)
 # What to do next
 [System Deign Primer](https://github.com/donnemartin/system-design-primer)
 
-[Next](devops.md)
+[Next: Devops](devops.md)
 

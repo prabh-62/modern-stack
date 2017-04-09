@@ -5,7 +5,7 @@
 
 ![Bash on Windows](assets/wsl.png)
 
-- Open bash Shell
+- Open bash Shell. Please note, we will not be using Powershell or Windows Command Prompt during the entire project setup
 
 ![Bash Shell](assets/bash.png)
 
@@ -13,7 +13,7 @@
 - Type in Terminal the below commands to verify we have required tooling to begin with
 ```bash
 git --version
-> v1.9.1
+c
 
 node -v
 > v7.8.0
@@ -34,4 +34,5 @@ yarn -V
    - ![Default Shell](assets/default-shell.png)
 
 
-[Next](frontend.md)
+
+[Next: Frontend](frontend.md)
